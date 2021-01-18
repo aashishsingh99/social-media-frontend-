@@ -1,0 +1,23 @@
+.outer{
+    display:flex;
+    flex-direction: column;
+}
+.profile{
+    display:flex;
+    flex-direction: column;
+    margin:20px;
+    align-items: center;
+
+}
+.home-card{
+    max-width:500px;
+    height:200px;
+    height:max-content;
+    margin:20px auto;
+    width:500px;
+    align-items:center;
+}
+.info{
+    align-items: center;
+}
+

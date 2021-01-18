@@ -1,0 +1,17 @@
+.header{
+    display:flex;
+    padding: 5px 20px;
+    justify-content: space-between;
+    background-color: blue;
+    z-index: 100;
+    position: sticky; 
+}
+.header__left{
+    display: flex;
+    align-items: center;
+}
+.header__right{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}

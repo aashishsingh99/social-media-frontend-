@@ -1,0 +1,21 @@
+.create-input{
+    max-width:500px;
+    width:500px;
+    margin:50px auto;
+    padding: 10px auto;
+    padding:20px;
+    height:max-content;
+    align-items: center;
+}
+.create-input>input{
+    padding: 10px 10px;
+    height:300px;
+    width: 400px;
+
+}
+.create-input>button{
+    margin:10px auto;
+    max-width: 100px;
+    
+    
+}
